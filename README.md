@@ -43,6 +43,8 @@ Each model was evaluated using the following metrics:
 | Linear SVM          | 98.20%   | 99.08%    | 99.08% | 0.7717  |
 | Neural Network      | 98.47%   | 98.56%    | 99.89% | 0.6442  |
 
+![Model Performance Summary](pictures/model_performance_summary.png)
+
 ---
 
 ## 📂 Datasets Used
